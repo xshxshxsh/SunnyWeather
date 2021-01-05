@@ -125,7 +125,7 @@ import com.sunnyweather.android.logic.model.Place
 //import com.example.xinranweather.logic.model.Location
 //import com.example.xinranweather.logic.model.Place
 import com.sunnyweather.android.ui.weather.WeatherActivity
-
+//发发发
 
 
 class MainActivity : AppCompatActivity() {
